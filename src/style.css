@@ -94,12 +94,12 @@ svg {
 }
 
 /* Inherit fonts for inputs and buttons */
-input,
+/* input,
 button,
 textarea,
 select {
   font: inherit;
-}
+} */
 
 /* Remove all animations and transitions for people that prefer not to see them */
 @media (prefers-reduced-motion: reduce) {
@@ -184,4 +184,4 @@ select {
 
 .fs-500 { font-size: var(--fs-500); }
 
-.fs-500 { font-size: var(--fs-500); }
+.fs-600 { font-size: var(--fs-600); }
